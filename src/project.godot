@@ -16,7 +16,7 @@ config/icon="res://assets/icons/icon.svg"
 
 [autoload]
 
-ItemSystem="*res://gadget-item-system/item_system.gd"
+ItemLoader="*res://scripts/systems/object_loading_system/object_loader.gd"
 
 [file_customization]
 
